@@ -1,0 +1,17 @@
+Introduction:
+	This program is the first part of a big project that we are going to build this semester.
+	In this assignment, we draw the dungeon map with random rooms on it and corridor to travel between rooms.
+	This program is to draw the dungeon using ASCII art, so the dungeon is not a good looking, but this is 
+	the basic code to build the game.
+Functions:
+	There are 5 functions that are essential for this program, which are listed below:
+ 		generate_map: This function will draw first dungeon map
+		draw_map: This funciton will draw final dungeon map
+		create_room: This function will generate random room
+		updateRoomOnMap: This funciton is used to draw all the rooms on the  dungeon
+		room_connect:Finally this function will connect all the rooms that are being created.
+		
+
+Note: 
+compile: make
+rum: ./assign1.01

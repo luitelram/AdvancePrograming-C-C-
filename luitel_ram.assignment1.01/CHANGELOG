@@ -1,0 +1,11 @@
+Jan 18 - Read pdf document
+	  Generate idea for solution
+	  Sketch outline for functions to be used and wrote header file. with following function;
+			generate_map,create_room, updateRoomOnMap,room_connect,and draw_map
+Jan 19 - Code to draw the map with boundary.Test code
+	  Code function to generate a random room. Test code
+Jan 21 - generate_map and create_room functions code written bith minor error.
+Jan 22 - Debug the code and fix error on placing room function.
+Jan 23 - Determine an algorithm to connect rooms. All above funcitonare written but not connected. 
+Jan 24 - Continue on connecting room. Test multiple times. 
+	  Final test and create CHANGELOG, README file.

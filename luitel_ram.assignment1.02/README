@@ -1,0 +1,19 @@
+Introduction:
+	This program is the second part of a big project that we are going to build this semester.
+	In this assignment, we draw the dungeon map with random rooms on it and corridor to travel between rooms.
+	This program generate, save, and load so the dungeon is not a good looking, but this is 
+	the basic code to build the game.
+Functions:
+	There are 8 functions that are essential for this program, which are listed below:
+ 	void dungeon_initial(void); initalized te dungeon
+	void dungeon_display(void); display teh dungeon
+	int check_tile(int x, int w, int y, int h); check the tiles
+	void add_dungeon_room(void);	add the rooms
+	void draw_corridor(int x1, int y1, int x2, int y2); draw the corridor
+	void add_corridor(void); add the corridor
+	int add_hardness(void);	 add the hardness
+	void dungeon_drwaing();	draw the dungeon
+
+Note: 
+compile: make
+rum: ./assign102 (type or more)- new/save/load

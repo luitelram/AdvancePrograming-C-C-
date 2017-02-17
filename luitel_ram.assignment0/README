@@ -1,0 +1,10 @@
+Mosts of the work is done in main function. There are two functions one checkLives which
+check either a cell is live or not and another is countLives which count how many of the 
+cell are lives. I have used struct to represent symbol and the liveness of the cell. The 
+most of the code is simple and self explaintory. 
+
+Note: 
+compile: type " make" and enter
+run: type" ./assign0 indexes"
+     example-  ./assign0 1 2 3 4 5 6 7 9
+

@@ -1,0 +1,16 @@
+
+	This is the third part of the big program(game) we are develoing this semester in this class.
+	This program will calculate and find a shortest path from monster to character for both non-tunnel and 		tunnel monsters. The program will also draw distance map for both monster and using number from 0-9 to 		show how far the distance is. 
+	
+	Among the three part so far this is the logest  and I would say hardest part so far. This program need 
+	some good code writing skill and ideas about he algorithem. Some of the algoritem used are Dijkstra's 		algorithm, and Binaryheap. Dijkstra algorithem takes lot time to corretly work for me.
+
+Note:
+compile: Makefile
+rum: ./assign103
+graph representation:
+	1. Random map (@ character represent character)
+	2. Distance map 
+	3. Tunnel map 
+
+

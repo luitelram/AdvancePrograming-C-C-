@@ -1,0 +1,23 @@
+Jan 26 12: Read pdf and try to understand what to do.
+	
+Jan 27:	Write some functions to loadgame function  and start saveing game function
+	
+Jan  28: defination for function listed below are written
+	
+	void dungeon_initial(void);
+	void dungeon_display(void);
+	int check_tile(int x, int w, int y, int h);
+	void add_dungeon_room(void);
+
+Jan 30: definaiton for function listed below are written
+
+	void draw_corridor(int x1, int y1, int x2, int y2);
+	void add_corridor(void);
+	int add_hardness(void);
+	void dungeon_drwaing();
+
+Jan 31: Start testing and Fix, final test
+	Change code to make program better
+
+Feb 1: Changelog, readme written
+ 

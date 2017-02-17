@@ -1,0 +1,23 @@
+Feb 4: Read the pdf. Prepare a plan for coding, scratch some functions, read pdf couple time
+Feb 5: Got some idea from professor code and try to implemtns in my code.
+	 Write down an outline of code and start coding 
+Feb 6: Finishing distance map for non tunnel character.
+	 Test the code and start coding tunnel map. Following function either partially fininshed
+	  or finished.
+	void newmap(dungeon_t *d);
+	void generate_map(dungeon_t *d);
+	void draw_map(dungeon_t *d);
+	room_t createRoom();
+	void updateRoomOnMap(dungeon_t *d);
+	void room_connect(dungeon_t *d);
+	void dijkstra_non_tunnel(dungeon_t *d);
+	void dijkstra_tunnel(dungeon_t *d);
+	void drawdist_map(dungeon_t *d);
+	void drawtunnel_map(dungeon_t *d);
+	int checkhardness(int);
+ 	
+Feb 8:  All the partially finished function finished. binary heap finished and start testing
+FEb 9: Fix the bug and finish coding.
+Feb 10: Finally test all code and it looks like it is working
+	 
+
