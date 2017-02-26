@@ -1,0 +1,7 @@
+The purpose of program is putting characters on dungeon both pc and npc and then, keep track the movement of all characters. We have add some routines of our own devising to move the player character (PC) around. The PC movement is not clever; However it will move it randomly, along a chosen vector.All monsters have distinct characteristics. When the monster hit the pc, the pc will die.
+All the required character functinalities are doen in character.c. Therefore, some of monsters will not be implemented correctly and the program will might crash some time. On the other hands, monsters are created correctly and the program runs ok. Just run the program multiple times to get result. Monster represented by '6' and pc :'@'.
+
+
+compile: make 
+run:  assign104 –nummon for number of monsters.
+
