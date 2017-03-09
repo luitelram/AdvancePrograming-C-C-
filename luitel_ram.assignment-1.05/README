@@ -1,0 +1,5 @@
+The program draws the roguelike game using Ncurses. Addition, we add some key to control 
+the chacracter around to interact with monster.The first line to display game status (Control or Look mode). 
+In this case: when you control your character, it displays "Control Mode". Otherwise, "Looking Mode.
+Hit ESC to escape...". The bottom line display the name of the game.
+ 

@@ -1,0 +1,9 @@
+March 1: Read pdf and write all the requirement key on sheet of paper and think idea about implementing.
+	   Read more details information about Ncurses and make a plan to modify any function as needed
+March 2: Add stair functionalities and I alos implement move_pc function and change print format.
+March 5: written the code to implement monster_list and add game status on top and bottom of curses window
+March 6: Time to check. Things do not work as aspected. When I print the dungeon 80x21 I ran in to infinite 
+	  loop. However, if I try to print only 160x105 then it display fine.
+March 7: Did lot of re-work to fix the bug. still could not fixed and display the 160x105
+March 8: Bug fix, readme, changelog and Final check and re-testing stuffs and making change.
+
