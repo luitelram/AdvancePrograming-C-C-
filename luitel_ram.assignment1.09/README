@@ -1,0 +1,6 @@
+The assigment implement pc equipment and new combat method.
+I finished pc equipment part.
+ NOTE: to select item in inventory, hit key 0 to 9 to choose item at position[0->9]
+	to select item in equipment, hit key a to l to choose item at position[0->11]
+However, my combat method is not perfect. It doesnt work well. I recommend to use old combat method to check inventory and equipment part.(Uncomment old do_combat code and comment my new code)
+Note: My laptop crash today( 04/12) so, I have to redo every things this couple of hours. 

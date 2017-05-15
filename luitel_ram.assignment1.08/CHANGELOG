@@ -1,0 +1,11 @@
+April 2: Read the pdf couple of times. Modify character and npc files.Create a method to generate npc from 		descriptions.Then I tried implementing the new classes, I kept getting a seg fault, and couldn't 		find the solution. After about hours of  debuging. I decided to start the project over, and compile 		after every change so I could find the source of the seg fault. I found I was accessing an undefined 		variable in my monster class, so I changed that and was finally able to get my monsters to display 		with color. 
+
+April 3: Today I created the Object.h and Object.cpp files for creating object instances from the 		 object_description model. Another error I kept getting was undefined reference to one of my Object 		classes. I learned I needed to add the Object.o to my make file, and after that it compiled fine. I 		finished the layout for most of the Object class, but it still isn't implemented. Apply color for npc
+
+April 5: I finally finished the assignment. I had to add in an objectMap to my dungeon.h file, to keep 		track of which objects have been seen, similar to the character map. Then I also added a couple 	lines in character.cpp under the can_see function. Each time the pc_learn_terrain function was 		called, I checked to see if there was an object in the terrain. If there was, 	I changed a variable 		in the object called isVisible to 1, indicating that it should be displayed. 
+
+
+
+
+
+

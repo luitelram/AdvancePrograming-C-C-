@@ -1,0 +1,11 @@
+March 25: Read the assigment couple of times and try to understand what to do. Converted 		  all files to cpp, and fixed some errors. Haven't started on the rest of the assignment 	  yet but scratch the idea about it.
+
+March 26: Create classes for Monster and dice, and use the header files, but I keep 	  		  getting all these erros saying "swap macro requires three arguments but 
+	  only two give". But I have no idea what it is, but when I just create the monster and 
+	  dice class insdie the rlg327.cpp file, it works fine, so that's what I'm doing for now.
+
+March 28:  monster and dice classes recreated, including all the getter and setter methods. 		   Now I am starting on parsing the text file. I downloaded a monster_desc file,
+ 	  and put it in my home directory, under the .rlg327 folder. I can do basic parsing, read 		  the file, and print it to the console, but I don't have the specifics worked out.
+
+March 29: Worked on parsing the monsters all day. Managed to get it working. Created global 	   		  vectors for the monsters, and their relative colors. So after a monster is parsed,
+ 	  I put it in the vector. Also I use the get line method to read through the file. 

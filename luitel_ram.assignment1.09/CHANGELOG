@@ -1,0 +1,7 @@
+April 9: Read pdf couple of times and try to understand what to do. Implement pick up item and
+	 display PC inventory. Also display PC equipments half way done    
+April 10: complete what ever left from yestarday and now implement wear-item method.
+	  Implement takeoff-item method and drop-item method
+April 11: Continue on drop-item method and mplement expunge-item method.
+	  Implement display obj description
+April 12: Implement new combat method. My computer crash so I re-do every single thing now.

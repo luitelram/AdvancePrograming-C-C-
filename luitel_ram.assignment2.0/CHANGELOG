@@ -1,0 +1,7 @@
+April 16: Read pdf and start thinking good project. Scratch the idea about tic tac toe
+April 17: scratch the idea about the game and implement the player and game class
+April 18: Test player class
+	   Test game class
+	   Fix error
+April 19: Implement nucurses (draw game and adding color)
+	    Final test

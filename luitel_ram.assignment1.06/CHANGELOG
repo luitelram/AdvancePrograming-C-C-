@@ -1,0 +1,6 @@
+March 15: Read pdf and write all the requirement key on sheet of paper and think idea about 		  implementing.Read more details information about Ncurses and make a plan to modify 		  any function as needed
+March 19: work in pc.c, npc.c and character.c and convert to cpp and their corresponding 		  header files 	
+March 20: Wrote all the C++ methods in character.cpp. Thanks to Rumesh and sumon (TAS) for help.
+March 21: Time to check. Things do not work as aspected. Spend last two days changing the code 
+	  and fixing things. ALways come up with at leat one new error. 
+March 22: Still working on fixing error.

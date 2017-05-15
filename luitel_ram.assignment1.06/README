@@ -1,0 +1,8 @@
+In this assignment we are going to work with C and C++. In this part of assignment we are wrapping headers in an extern "C" block.  We are also going to work on fog of war. All functionalities of pc, npc, and character are converted from "C" code to C++. From this assignemtn i am using professor code  and his code uses an object oriented design of the character t, with sub-types pc t and npc t. So I have to call from the C side of the code will need to export a C interfacce. I this assignent we have added one more map that contain terrain. Converting C files were very tedious. I would like to thanks TA's for help. I managed to fixed all the issue after debuging for many hours but the program does not quite work as supposed to be. If the program run in infinite loop then recompile it and re-run the program. 
+
+
+
+
+
+ 
+

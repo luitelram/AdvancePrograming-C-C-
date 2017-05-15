@@ -1,0 +1,7 @@
+This is a full working implementation of Assignment 1.08. he program load descriptions from description files and create npc and objects for dungeon from information we loaded. It contains a class for instances of Monsters and Objects, which contains the traits associated with each type. Another new implementation is that the game monsters and objects are now displayed in color. The more detail implementation of object class is explained in CHANGELOG. In this program:
+	Modify character.h, npc.h, and description files to generate npc 
+	Add object class and generate object in description 
+	Modify io.cpp to display with color.
+Also modify in main class and dungeon (add some variables) to handle new objects.
+
+Note: My sincere thank to TA ( Rumesh and Sumon) for helping me in debuging. 

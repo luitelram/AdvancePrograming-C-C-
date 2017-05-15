@@ -1,0 +1,19 @@
+For this assignmentI am going to implment by own version of the very popular game Tic Tac Toe game. 
+If you are not familier with this game check out the link: https://playtictactoe.org/
+
+So, the discription of the file is as follows.
+	 player.h and player.cpp (create user)
+	game.h and game.cpp(create Tic Tac Toe game)
+	play.cpp (main program)
+
+How to run comiple and the progaram
+
+- to compile: make
+- run: ./play 1 or 2
+- Add 1 or 2 on command line to select how many people play (1: vs game, or 2: PvP)
+- Select name for player
+- Choose symbol(X goes first, O goes second)
+- Select 0-8 to select board position to place your symbol
+- CPU player will player random
+- player  place 3 symbol on a line(horizontal, vertical or diagonal) is winner.
+- for other follow the instructions on the screen.
